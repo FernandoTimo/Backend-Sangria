@@ -32,3 +32,5 @@ class HomeController @Inject()(cc: ControllerComponents) (implicit assetsFinder:
 }
 
 [0m2021.04.02 18:19:53 INFO  time: code lens generation in 7s[0m
+abr. 02, 2021 6:21:13 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
