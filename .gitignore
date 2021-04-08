@@ -1,3 +1,5 @@
-.metals
 .vscode
 desktop.ini
+project/project/
+project/target/
+target/
